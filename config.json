@@ -1,12 +1,12 @@
 {
-    "ip": "",
-    "port": "",
-    "name": "katy",
+    "ip": "Shreyansh32.aternos.me",
+    "port": "27699",
+    "name": "Amellia",
     "auto-night-skip": "false",
-    "prefix": "",
+    "prefix": "!",
     "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "register-cmd": "/login bot bot",
+    "login-cmd": "/login bot",
+    "loginmsg": "HI, I am a AI driven bot  made by Shreyansh Diwakar",
     "auto-reconnect": "true"
 }
